@@ -1,4 +1,10 @@
-const txtElement = ['Haya sayang, sayang lagi bikin apa ya? sayang sudah makan dan minum kah sayang sayang gimna kabar dimana ini sayan. saya mau supaya sayang juga tau saya punya kabar dimalam ini sayang gimana dang kabar dimalam ini?'];
+const txtElement = ['Today is a very special day, because in today beautiful woman named Given Wulandari Nussy Birthday. Thank God for looking after the woman I love from my womb to this day.',
+'Thank You for giving him one more age so that he is now 21 years old,','the same care and blessing will be upon you until the Lord comes to second',
+'Today I cannot give you flowers and presents for your,','but today i wish to counsel the word of the Lord to strengthen the faith of my dear and lead the baby closer to the Lord']; 
+
+
+
+
 let count =0;
 let txtIndex =0;
 let currentTxt ='';
@@ -19,6 +25,6 @@ let words = '';
 	}
 	
 
-	setTimeout(ngetik,129);
+	setTimeout(ngetik,200);
 
 })();
